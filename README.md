@@ -15,9 +15,9 @@ Then, type help to see all the possible commands.
 
 Let's face it, this program has many bugs.
 
-But one main problem to this program is that it cannot show accurately the date, since the graphics are shown in ASCII.
+But one main problem to this program is that it cannot show accurately the data, since the graphics are shown in ASCII.
 
-    Until this problem isn't fixed, this tool can't be used for actual purpose (for showing *unaccurate* data)
+> Until this problem is fixed, this tool can't be used for actual purpose (for showing *unaccurate* data)
  
  
 
